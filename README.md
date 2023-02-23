@@ -43,10 +43,9 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=sakshathrai&&style=flat-square)  
-  
-
-<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sakshathrai&&style=flat-square" align="center" />
+</div>   
 
 
 <br />
