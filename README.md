@@ -29,11 +29,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshathrai&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
-<br/>  
 
-
-<br/>  
-
+## Streaks  🔥
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshathrai" align="center" />
+</div>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sakshathrai&&style=flat-square" align="center" />
 </div>   
