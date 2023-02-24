@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sakshath Rai K </h1>
+
 <div align="center">
 <img src="https://github.com/sakshathrai/sakshathrai/blob/main/greetings.gif" align="center" style="width: 100%" />
 </div>  
- 
+ <h1 align="center">Hi 👋, I'm Sakshath Rai K </h1>
+<h3 align="center">|| Student <a href="https://www.canaraengineering.in/"target="_blank"> @CEC'25</a> | Computer Science Engineer | Enthusiastic Learner ||</h3>
+<div>
+ </div>
 ## 🔗 Links
 
 
