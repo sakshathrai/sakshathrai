@@ -6,6 +6,11 @@
 <h3 align="center">|| Student <a href="https://www.canaraengineering.in/"target="_blank"> @CEC'25</a> | Computer Science Engineer | Enthusiastic Learner ||</h3>
 <br>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="sakshath-rai-k" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sakshath-rai-k?trk=profile-badge">Sakshath Rai K</a></div>
+              <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="sakshath-rai-k" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sakshath-rai-k?trk=profile-badge">Sakshath Rai K</a></div>
+              
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
