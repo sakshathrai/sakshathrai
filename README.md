@@ -30,7 +30,7 @@
 <div align="center"> 
 <a href="https://www.linkedin.com/in/sakshath-rai-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sakshath-rai-k" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshath_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshath_rai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sakshathrai2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sakshathrai2004" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sakshathrai2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sakshathrai2004" height="30" width="40" /></a>
 </div>
 
 ## Streaks  🔥
