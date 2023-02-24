@@ -6,8 +6,6 @@
 <h3 align="center">|| Student <a href="https://www.canaraengineering.in/"target="_blank"> @CEC'25</a> | Computer Science Engineer | Enthusiastic Learner ||</h3>
 <br>
 
-<p class="ex1">This is a bigger paragraph.</p>
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
