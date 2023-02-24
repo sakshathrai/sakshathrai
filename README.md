@@ -4,11 +4,7 @@
 </div>  
  <h1 align="center">I'm Sakshath Rai K </h1>
 <h3 align="center">|| Student <a href="https://www.canaraengineering.in/"target="_blank"> @CEC'25</a> | Computer Science Engineer | Enthusiastic Learner ||</h3>
-
-## Connect with me  
-<div align="center"> 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sakshath-rai-k)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sakshathrai)
+<br>
 
 ## Languages and Tools  
 <div align="center">  
@@ -30,6 +26,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshathrai&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
+## Connect with me  
+<div align="center"> 
+<a href="https://www.linkedin.com/in/sakshath-rai-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sakshath-rai-k" height="30" width="40" /></a>
+<a href="https://instagram.com/sakshath_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshath_rai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/sakshathrai2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sakshathrai2004" height="30" width="40" /></a>
+</div>
 
 ## Streaks  🔥
 <div align="center">
