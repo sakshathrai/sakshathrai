@@ -1,6 +1,6 @@
-
+<h1 align="center">Hi 👋, I'm Sakshath Rai K </h1>
 <div align="center">
-<img src="https://github.com/sakshathrai/sakshathrai/blob/main/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/sakshathrai/sakshathrai/blob/main/1.gif" align="center" style="width: 100%" />
 </div>  
  
 ## 🔗 Links
