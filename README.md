@@ -2,10 +2,10 @@
 <div align="center">
 <img src="https://github.com/sakshathrai/sakshathrai/blob/main/greeting2.gif" align="center" style="width: 100%" />
 </div>  
- <h1 align="center">Hi 👋, I'm Sakshath Rai K </h1>
+ <h1 align="center">I'm Sakshath Rai K </h1>
 <h3 align="center">|| Student <a href="https://www.canaraengineering.in/"target="_blank"> @CEC'25</a> | Computer Science Engineer | Enthusiastic Learner ||</h3>
 
-##Connect with me  
+## Connect with me  
 <div align="center"> 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sakshath-rai-k)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sakshathrai)
