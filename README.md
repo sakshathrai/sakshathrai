@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://github.com/sakshathrai/sakshathrai/blob/main/greeting2.gif" align="center" style="width: 100%" />
 </div>  
- <h1 align="center">I'm Sakshath Rai K </h1>
+ <h1 align="center">Hi 👋I'm Sakshath Rai K </h1>
 <h3 align="center">||  Enthusiastic Learner  |  Student <a href="https://www.canaraengineering.in/"target="_blank"> @Canara Engineering College, Bantwal</a>  |  Computer Science Engineer  ||</h3>
 <br>
 
