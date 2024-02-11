@@ -4,6 +4,23 @@
 </div>  
  <h1 align="center">Hi 👋I'm Sakshath Rai K </h1>
 <h3 align="center">||  Enthusiastic Learner  |  Student <a href="https://www.canaraengineering.in/"target="_blank"> @Canara Engineering College, Bantwal</a>  |  Computer Science Engineer  ||</h3>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Sakshath Rai K
+located_in: Mangalore, Karnataka
+current_education: Student, Computer Science Engineer @Canara Engineering College, Bantwal
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Web Development",
+    "Deep Learning",
+    "NLP",
+    "Android Development",
+  ]
+
+currently_learning: ["NextJs, NLP, and ML"]
+```
 <br>
 
 ## Languages and Tools  
