@@ -11,6 +11,7 @@ fields_of_interests:
     "Machine Learning",
     "Web Development",
     "Deep Learning",
+    "LLM"
     "NLP",
     "Android Development",
   ]
