@@ -3,10 +3,10 @@
 <img src="https://github.com/sakshathrai/sakshathrai/blob/main/greeting2.gif" align="center" style="width: 100%" />
 </div>  
  <h1 align="center">Hi 👋I'm Sakshath Rai K </h1>
- <div align= "center">
+<!--  <div align= "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi+👋🏻I'm+Sakshath++Rai+K;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi+👋🏻;I'm+Sakshath++Rai+K;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+</div> -->
 <h3 align="center">||  Enthusiastic Learner  |  Student <a href="https://www.canaraengineering.in/"target="_blank"> @Canara Engineering College, Bantwal</a>  |  Computer Science Engineer  ||</h3>
 
 ```yaml
