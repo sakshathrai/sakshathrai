@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/sakshathrai/sakshathrai/blob/main/greeting2.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
  <h1 align="center">Hi 👋I'm Sakshath Rai K </h1>
 <!--  <div align= "center">
 
@@ -22,7 +22,7 @@ fields_of_interests:
 
 currently_learning: ["NextJs, NLP, and ML"]
 ```
-<br>
+<!--<br>
 
 ## Languages and Tools  
 <div align="center">  
@@ -46,13 +46,13 @@ currently_learning: ["NextJs, NLP, and ML"]
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>  
+</div>   -->
 
-<br/>  
+<!-- <br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshathrai&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
+</div>   -->
 
 ## Connect with me  
 <div align="center"> 
@@ -61,13 +61,14 @@ currently_learning: ["NextJs, NLP, and ML"]
 <a href="https://www.hackerrank.com/sakshathrai2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sakshathrai2004" height="30" width="40" /></a>
 </div>
 
-## Streaks  🔥
+<!--## Streaks  🔥
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshathrai" align="center" />
 </div>
 <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sakshathrai&&style=flat-square" align="center" />
+-->
 </div>   
 
 
