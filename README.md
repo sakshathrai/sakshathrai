@@ -9,7 +9,7 @@
 </div> -->
 <!-- <h3 align="center">||  Enthusiastic Learner  |  Student <a href="https://www.canaraengineering.in/"target="_blank"> @Canara Engineering College, Bantwal</a>  |  Computer Science Engineer  ||</h3> -->
 
-```yaml
+<!--```yaml
 fields_of_interests:
   [
     "Machine Learning",
