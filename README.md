@@ -21,8 +21,8 @@ fields_of_interests:
   ]
 
 currently_learning: ["NextJs, NLP, and ML"]
-```
-<!--<br>
+``` -->
+<!--<br> -->
 
 ## Languages and Tools  
 <div align="center">  
@@ -46,7 +46,7 @@ currently_learning: ["NextJs, NLP, and ML"]
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>   -->
+</div> 
 
 <!-- <br/>  
 
